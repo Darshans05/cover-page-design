@@ -124,6 +124,8 @@ create a new html file int he folder and type the code that contains html and cs
 
 ## Output:
 ![output of images](https://github.com/Darshans05/cover-page-design/assets/115534676/8222df9e-5022-4f2d-8664-dd43d7162cec)
+## server output:
+![server output](https://github.com/Darshans05/cover-page-design/assets/115534676/7ad7100c-6ff9-4116-90c7-d69cc241e5de)
 
 ## Result:
 The program for creating a cover page design is created using html and css successfully.
